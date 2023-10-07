@@ -22,7 +22,7 @@
 	},
 	{
 		"id": 4,
-		"producto": "Beans - Black Bean, Dry",
+		"producto": "Beans - Black Bean Dry",
 		"precio": 321,
 		"stock": 91,
 		"urlimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpTDLW-3uQU4BPJ7tqjupZt_dWmwCrQNfhSWc4S8jhk0YwFqyZpeLMXnDbbwT13JqTTe8&usqp=CAU"
@@ -43,21 +43,21 @@
 	},
 	{
 		"id": 7,
-		"producto": "Roe - Lump Fish, Red",
+		"producto": "Roe - Lump Fish Red",
 		"precio": 409,
 		"stock": 42,
 		"urlimage": ""
 	},
 	{
 		"id": 8,
-		"producto": "Pasta - Spaghetti, Dry",
+		"producto": "Pasta - Spaghetti Dry",
 		"precio": 679,
 		"stock": 50,
 		"urlimage": ""
 	},
 	{
 		"id": 9,
-		"producto": "Coke - Classic, 355 Ml",
+		"producto": "Coke - Classic 355 Ml",
 		"precio": 364,
 		"stock": 10,
 		"urlimage": ""
