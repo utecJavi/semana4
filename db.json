@@ -1,5 +1,4 @@
-{
-  "supermarket":[{"id":1,"producto":"Chips - Doritos","precio":220,"stock":91},
+[{"id":1,"producto":"Chips - Doritos","precio":220,"stock":91},
 {"id":2,"producto":"Cloves - Whole","precio":319,"stock":77},
 {"id":3,"producto":"Pork Loin Cutlets","precio":1031,"stock":10},
 {"id":4,"producto":"Beans - Black Bean, Dry","precio":321,"stock":91},
@@ -98,4 +97,4 @@
 {"id":97,"producto":"Sardines","precio":1026,"stock":19},
 {"id":98,"producto":"Pastry - Mini French Pastries","precio":486,"stock":79},
 {"id":99,"producto":"Dried Figs","precio":163,"stock":73},
-{"id":100,"producto":"Versatainer Nc - 8288","precio":953,"stock":12}]}
+{"id":100,"producto":"Versatainer Nc - 8288","precio":953,"stock":12}]
